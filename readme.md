@@ -1,8 +1,8 @@
-#Pretty Pony Debug ##
+#WordPress Pretty Debug ##
 
-Makes `var_dump` and `print_r` pretty!
+A WordPress plugin that makes `var_dump` and `print_r` pretty!
 
-- See screenshot for what it looks likes (work in progress)
+- See [screenshot](https://github.com/wycks/WP-Pretty-Debug/blob/master/pretty-debug-screenshot.jpg) for what it looks likes (work in progress)
 - Function output referances with http://queryposts.com when possible.
 
 
