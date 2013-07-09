@@ -1,0 +1,3 @@
+[submodule "php-ref"]
+	path = php-ref
+	url = git@github.com:digitalnature/php-ref.git
