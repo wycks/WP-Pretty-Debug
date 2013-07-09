@@ -21,4 +21,7 @@ For example:
 More usage  [https://github.com/digitalnature/php-ref](https://github.com/digitalnature/php-ref)
 
 
+*Please note* the interface is really ugly at the moment when doing inline debugging. I am playing around with how to keep it integrated with php-ref, so stay tuned.
+
+
 
