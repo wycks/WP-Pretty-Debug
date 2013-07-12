@@ -21,9 +21,6 @@ For example:
 More usage  [https://github.com/digitalnature/php-ref](https://github.com/digitalnature/php-ref)
 
 
-*Please note* I am playing around with how to keep it integrated with php-ref so for now CSS over rides are in order.
-
-
 
 
 
