@@ -33,9 +33,8 @@ License:     GPL2
 	define( 'PHPREF_PLUGIN_PATH', plugin_dir_path( __FILE__ ) );
 	require_once(PHPREF_PLUGIN_PATH . 'php-ref/ref.php');
  	
-     ref::config('stylePath', false);
-     ref::config('scriptPath', false);
-
+	ref::config('stylePath', false);
+	ref::config('scriptPath', false);
 
 	function add_scripts_phpref(){
 
